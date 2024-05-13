@@ -78,4 +78,4 @@ https://drive.google.com/file/d/107dHnFWvCmJwDoUphDgnD0TZq01LoiwH/view?usp=shari
 https://docs.google.com/presentation/d/1zJuNir2YXQXgRWfuw6ZI_CoxHgGNWsjXfnukYLh5gA4/edit?usp=sharing
 
 # Material de apoyo
-
+https://github.com/ignacioMatus94/jugadores_pensativos
